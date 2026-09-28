@@ -1,0 +1,24 @@
+# fieldsql
+
+Field HTML/Markdown sql fragments safely for docs pipelines.
+
+**Site:** https://theworker02.github.io/fieldsql/
+
+## Install / run
+
+```bash
+git clone https://github.com/theworker02/fieldsql.git
+cd fieldsql
+node src/cli.js
+node --test
+```
+
+## API
+
+Library entrypoint: [`src/index.js`](./src/index.js)
+
+Category: `markup` · Version `1.0.0`
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
